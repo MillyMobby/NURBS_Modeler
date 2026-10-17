@@ -2,7 +2,7 @@
 
 An interactive 2D curve modeler written in C++ and OpenGL that lets you draw, edit and inspect **Bézier**, **B-Spline** and **NURBS** curves in real time.
 
-Bachelor's thesis project by **Chiara Frascaria** (Sapienza Università di Roma), supervisor **Prof. Hendrik Speleers**. Presented on 27/04/2023.
+Bachelor's thesis project by **Chiara Frascaria** (Tor vergata University Roma), supervisor **Prof. Hendrik Speleers**.
 
 Requirements: **Windows**, **Visual Studio 2019 or later** with the *Desktop development with C++* workload, and a GPU with OpenGL 3.3+.
 
